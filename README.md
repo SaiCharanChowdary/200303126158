@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![src/images/](1st.png)
+![](src/images/1st.png)
 ## Available Scripts
 
 In the project directory, you can run:
