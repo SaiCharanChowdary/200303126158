@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![](src/images/1st.png)
+#PLEASE, GO TO THE SRC FOLDER THERE WILL BE 2 QUESTIONS
 ## Available Scripts
 
 In the project directory, you can run:
