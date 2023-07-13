@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+
 
 # PLEASE, GO TO THE SRC FOLDER THERE WILL BE 2 QUESTIONS & Pictures will be the folder called Images
 ## Available Scripts
